@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to htcwg-repo 🙌🏻</h1>
+<h1 align="center">Welcome to htcwg-repo 👋🏻</h1>
 <p>
 </p>
 

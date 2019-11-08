@@ -6,7 +6,7 @@
 
 ## Author
 
-👤 **Varun Irani**
+👤 **Varun Rustom Irani**
 
 -   Github: [@VarunIrani](https://github.com/VarunIrani)
 
